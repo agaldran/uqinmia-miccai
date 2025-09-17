@@ -4,7 +4,7 @@ This is a repo associated with Uncertainty Quantification in Medical Image Analy
 
 If you are interested on checking a section of the tutorial, you can use [this handy tool](https://download-directory.github.io/) to download the contents of a particular subfolder in this repo by inserting its url.
 
-Contents related to the 2023/24 edition can be found in the `2023`/`2024` folder, please head to the `2025` directory for the latest version of our tutorial. 
+Contents related to previous editions can be found in the `2023`/`2024` folder, please head to the `2025` directory for the latest version of our tutorial. 
 
 Related materials
 ---
