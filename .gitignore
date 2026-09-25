@@ -17,6 +17,7 @@ __pycache__
 #*.pdf
 *.mp4
 *.tif
+*.DS_Store
 
 logos
 
